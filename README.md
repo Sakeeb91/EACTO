@@ -9,7 +9,7 @@
 EACTO is an advanced financial risk management system that dynamically adapts risk thresholds based on market complexity measures. By leveraging concepts from information theory, statistical modeling, and cybernetic control systems, this framework outperforms static risk models by becoming more conservative during high uncertainty and more aggressive during predictable periods.
 
 <div align="center">
-  <img src="eacto_project/results/demo_results_20250506_085017/entropy_series.png" alt="Entropy and Risk Threshold" width="800">
+  <img src="results/demo_results_20250506_085017/entropy_series.png" alt="Entropy and Risk Threshold" width="800">
   <p><em>Adaptive risk thresholds responding to market entropy</em></p>
 </div>
 
@@ -55,21 +55,21 @@ Our demonstrations show that the EACTO system can effectively adjust risk thresh
 <table>
   <tr>
     <td width="50%">
-      <img src="eacto_project/results/demo_results_20250506_085017/alpha_vs_loss.png" alt="Risk Threshold vs Loss" width="100%">
+      <img src="results/demo_results_20250506_085017/alpha_vs_loss.png" alt="Risk Threshold vs Loss" width="100%">
       <p align="center"><em>Risk thresholds vs actual losses</em></p>
     </td>
     <td width="50%">
-      <img src="eacto_project/results/demo_results_20250506_085017/alpha_vs_entropy_scatter.png" alt="Entropy vs Threshold Scatter" width="100%">
+      <img src="results/demo_results_20250506_085017/alpha_vs_entropy_scatter.png" alt="Entropy vs Threshold Scatter" width="100%">
       <p align="center"><em>Relationship between entropy and risk thresholds</em></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="eacto_project/results/demo_results_20250506_085017/cumulative_breach_rate.png" alt="Cumulative Breach Rate" width="100%">
+      <img src="results/demo_results_20250506_085017/cumulative_breach_rate.png" alt="Cumulative Breach Rate" width="100%">
       <p align="center"><em>Cumulative breach rate vs target</em></p>
     </td>
     <td width="50%">
-      <img src="eacto_project/results/demo_results_20250506_085017/rolling_breach_rate.png" alt="Rolling Breach Rate" width="100%">
+      <img src="results/demo_results_20250506_085017/rolling_breach_rate.png" alt="Rolling Breach Rate" width="100%">
       <p align="center"><em>Rolling breach rate over time</em></p>
     </td>
   </tr>
